@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Login</h1>
+    <form action="">
+      <div><label for="Email">Email</label>
+      <input type="email" /> </form></div>
+       <div>
+      <label for="Password">Password</label>
+      <input type="password" /> </div>
+      <div><label for="Age">Age</label>
+    <input type="number"></div>
+    <div><Label>Date
+        <input type="date">
+    </Label></div>
+      <button>Submit</button>
+      <button>Reset Password</button>
+            <img src="./discord.png" alt="">
+      <H1>We spared no expense</H1>
+      <p>This is only a test, but I've gotta start somewhere      </p>
+    </form>
+  </body>
+</html>
